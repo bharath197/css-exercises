@@ -1,0 +1,16 @@
+.red-background{
+    background-color: #ef476f;
+    font: "DejaVu Sans", sans-serif;
+}
+#blue-text{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+.adjust-font-size{
+    font-size: 24px;
+}
+#light-green-background{
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
